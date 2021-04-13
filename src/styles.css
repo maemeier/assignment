@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+}
+p {
+  line-height: 1.3;
+}
+.hero_container {
+  background: palegoldenrod;
+  height: 100vh;
+}
+.content {
+  margin: auto;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
